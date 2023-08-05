@@ -1,6 +1,7 @@
-### Hi👋, I'm Fahad Hasan
-#### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/D5616AQHU6TZs-Z3kGA/profile-displaybackgroundimage-shrink_350_1400/0/1690960490708?e=1696464000&v=beta&t=8nOSgDqER9JKFKpW04VvyOdU3tp8AD3XX-PhI25U2f4)
+(https://media.licdn.com/dms/image/D5616AQHU6TZs-Z3kGA/profile-displaybackgroundimage-shrink_350_1400/0/1690960490708?e=1696464000&v=beta&t=8nOSgDqER9JKFKpW04VvyOdU3tp8AD3XX-PhI25U2f4)
+# Hi👋, I'm Fahad Hasan
+## Web Developer
+![Web Developer]
 
 Passionate Web Developer. Tech Enthusiast.
 
