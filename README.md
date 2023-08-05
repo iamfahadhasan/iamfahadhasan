@@ -1,5 +1,5 @@
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQHU6TZs-Z3kGA/profile-displaybackgroundimage-shrink_350_1400/0/1690960490708?e=1696464000&v=beta&t=8nOSgDqER9JKFKpW04VvyOdU3tp8AD3XX-PhI25U2f4)
-# Hi👋, I'm Fahad Hasan
+# Hi, I'm Fahad Hasan
 ## Web Developer
 
 Passionate Web Developer. Tech Enthusiast.
@@ -16,9 +16,6 @@ Skills: Flutter / REACT / JS / HTML / CSS / JavaScript
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamfahadhasan)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamfahadhasan)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamfahadhasan&show_icons=true)  
 
